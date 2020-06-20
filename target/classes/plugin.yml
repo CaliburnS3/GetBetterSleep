@@ -1,0 +1,12 @@
+main: com.gmail.fingrambbg.bettersleepremastered.BetterSleepRemastered
+name: BetterSleepRemastered
+version: 1.15
+api-version: 1.15
+author: RoboEx
+description: This bad boi gives you a template
+commands:
+   sleep:
+      description: This is a sleep command.
+      usage: /<sleep> help
+      permission: BetterSleepRemastered.help
+      permission-message: You don't have permission
