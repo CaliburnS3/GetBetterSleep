@@ -1,7 +1,7 @@
 # GetBetterSleep
 Repository for a minecraft plugin that lets players skip the night by voting with commands or by sleeping in a bed.
 With this vote system, a vote can only start if it is night time, this is the first attempt to skip the night.
-The vote progress, such as time left, how many votes for yes and no, are all displayed across the top like a boss bar. 
+All relevant vote progress, such as time left, how many votes for yes and no, are all displayed by the plugin in an appropriate manner. 
 Players in the nether or end, cannot vote as sleeping does not affect them.
 
 
